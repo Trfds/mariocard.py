@@ -112,6 +112,7 @@ Generated Welcome Card
 
 
 Links
+
 -----
 - `Documentation <https://mariocard.readthedocs.io/>`_
 - `Github <https://github.com/mario1842/mariocard.py/>`_
