@@ -111,7 +111,8 @@ Generated Welcome Card
    :alt: Created card from example code.
 
 
-Links
+LinksA Mówiłem xd
+
 -----
 - `Documentation <https://mariocard.readthedocs.io/>`_
 - `Github <https://github.com/mario1842/mariocard.py/>`_
